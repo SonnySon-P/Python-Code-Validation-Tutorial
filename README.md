@@ -6,8 +6,8 @@ pip install pylint
 ```
 
 ```bash
-pip install mypy
-pip install pylint
+chmod +x check.sh
+./check.sh
 ```
 
 ```bash
