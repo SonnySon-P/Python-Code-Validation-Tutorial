@@ -7,7 +7,7 @@ pip install pylint
 
 ```bash
 chmod +x check.sh
-./check.sh
+./validation.sh
 ```
 ```bash
              check.sh
