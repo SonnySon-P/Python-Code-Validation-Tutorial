@@ -1,4 +1,4 @@
-# Python Code Validation Tutorial
+# Python Code Validation Teaching Works
 
 用於教學示範的簡單Python程式驗證範例。
 
