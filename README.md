@@ -36,13 +36,12 @@
 * pylint (語法、未使用變數、命名、文件字串檢查)
 
 ## 貳、操作說明
-**一、安裝程式方式：** 
-* 安裝mypy跟pylint套件
+**一、安裝套件：** 
 ```bash
 pip install mypy
 pip install pylint
 ```
-**二、運行結果：**
+**二、運行程式：**
 ```bash
 chmod +x check.sh
 ./validation.sh
